@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Afdal7
-- 👀 I’m interested in learning how GitHub works and how I can benefit from it.
-- 🌱 I learned and created PHP application with MySQL (HTML, JavaScript, & CSS) last year. Currently, I want to refresh on the object oriented features of PHP (classes).
-- 💞️ I’m looking for mentors (programmers, software engineers, etc.).  
+- 👀 I’m interested in game development.
+- 🌱 I've created a PHP+MySQL web application, Centipede game in Java (80's favorite), an IssueTracker in PHP and MySQL. 
+- 💞️ Any mentors out there? 
 - 📫 How to reach me: afzal441@ gmail
 
 <!---
