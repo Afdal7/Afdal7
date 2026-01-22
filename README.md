@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Afdal7
 - 👀 I’m interested in game development.
-- 🌱 I've created a PHP+MySQL web application, Centipede game in Java (80's favorite), an IssueTracker in PHP and MySQL. 
+- 🌱 I've created a PHP+MySQL web application to process server logs and page view analytics, an IssueTracker in PHP+MySQL+AJAX, and a Centipede game in Java (80's favorite). 
 - 💞️ Any mentors out there? 
 - 📫 How to reach me: afzal441@ gmail
 
